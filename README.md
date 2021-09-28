@@ -1,14 +1,22 @@
 ## Java Back-end Programmer
 
-- Back-end Web Service Development
+- Web Back-end Service Development
+
+  
 
 ## Interest
 
 - Web Technology - Spring/Spring Boot (MyBatis, JPA), HTML, JSP
+
 - Database modeling and SQL Query on Oracle and MySQL
+
 - Machine Learning and Deep Learning
+
 - High Performance Computing - CUDA, OpenCL
+
 - [Problems Solving](https://github.com/KyuSahm/problems-solving) 
+
+  
 
 ## Personal Projects
 
@@ -16,7 +24,7 @@
 
 
 
-## Experiences
+## Work Experiences
 
 - 2010.04 ~ 2021.07 : 지멘스 헬시니어스 수석연구원 
   - Acquisition Software on Ultrasound System
