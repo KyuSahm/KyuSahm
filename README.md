@@ -12,5 +12,17 @@
 
 ## Personal Projects
 
-- [Subway Crowdedness Prediction Service using SpringBoot and CNN based Deep Learning](https://github.com/KyuSahm/metro-codezero)
+- [Subway Crowdedness Prediction Web Service using SpringBoot and CNN based Deep Learning](https://github.com/KyuSahm/metro-codezero)
 
+
+
+## Experiences
+
+- 2010.04 ~ 2021.07 : 지멘스 헬시니어스 수석연구원 
+  - Acquisition Software on Ultrasound System
+  - Back-end Software on Ultrasound System 
+- 2005.05 ~ 2010.03: 티맥스소프트 책임연구원
+  - Client Modules on Tibero RDBMS (JDBC, CLI, ODBC etc)
+  - Heterogeneous Gateway Agents with Oracle, Sybase, MySQL on Tibero RDBMS 
+- 2001.02 ~ 2005.04: 삼성에스디에스 대리
+  - Web based ERP System - 재무회계, 구매재고, 고정자산
