@@ -20,7 +20,7 @@
 
 ## Personal Projects
 
-- [Subway Crowdedness Prediction Web Service using SpringBoot and CNN based Deep Learning](https://github.com/KyuSahm/metro-codezero)
+- [Subway Crowdedness Prediction Web Service on SpringBoot using CNN based Deep Learning](https://github.com/KyuSahm/metro-codezero)
 
 
 
