@@ -26,6 +26,11 @@
 
 ### Work Experiences
 
+- 2021.11 ~ 현재 : 누리플렉스 부장 
+
+  - Java Backend Software
+
+
 - 2010.04 ~ 2021.07 : 지멘스 헬시니어스 수석연구원 
 
   - Acquisition Software on Ultrasound System
