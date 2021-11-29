@@ -1,8 +1,11 @@
-### Java Back-end Programmer
+### Web Back-end Programmer
 
-- Web Back-end Service Development
+- Micro Service Architecture
+- Kubernates, Docker and Kafka
+- Rest API, GraphQL
+- SpringBoot
+- Node.js
 
-  
 
 ### Interest
 
