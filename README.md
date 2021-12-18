@@ -1,11 +1,10 @@
 ### Web Back-end Programmer
-
 - Micro Service Architecture
 - Kubernates, Docker and Kafka
 - Rest API, GraphQL
-- SpringBoot
-- Node.js
-
+- SpringBoot, Node.js
+- SQL Database(Oracle, MySQL, MariaDB)
+- NoSQL Database(MongoDB, Redis)
 
 ### Interest
 
