@@ -30,7 +30,7 @@
 
 - 2021.11 ~ 현재 : 누리플렉스 부장 
 
-  - Java Backend Software
+  - Backend Software on Node.js and SpringBoot
 
 
 - 2010.04 ~ 2021.07 : 지멘스 헬시니어스 수석연구원 
