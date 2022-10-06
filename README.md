@@ -28,7 +28,12 @@
 
 ### Work Experiences
 
-- 2021.11 ~ 현재 : 누리플렉스 부장 
+- 2022.06 ~ 현재 : 휴레이포지티브 수석연구원
+
+  - Backend Software on SpringBoot
+
+
+- 2021.11 ~ 2022.05 : 누리플렉스 부장 
 
   - Backend Software on Node.js and SpringBoot
 
